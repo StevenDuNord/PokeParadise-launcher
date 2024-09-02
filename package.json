@@ -1,7 +1,7 @@
 {
     "name": "PokeParadise-Launcher",
     "preductname": "PokeParadise Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur PokeParadise",
     "main": "src/app.js",
     "author": {
